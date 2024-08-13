@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 
-# Summary
+### Summary
 
 - The dataset was small and there were some columns that were not clearly distinguishable like `MonthlyRate` and `MonthlyIncome`. Most of the columns were mainly for exploratory purposes. Another note of the data set is that, most of the collected data was biased in the sense that there were more bachelors compared to phd employees, more males compared females, and departments where about 80% of employees work at. 
 - Models used were Decision Trees, Random Forests and Neural Networks. Out of all of them **Random Forest** performed the best.
